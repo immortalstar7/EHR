@@ -1,0 +1,5 @@
+/target/
+
+src/main/webapp/WEB-INF/views/home.jsp
+
+target/classes/net/HealthAdvisor/myHealthAdvisor/HomeController.class
